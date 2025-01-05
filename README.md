@@ -67,16 +67,16 @@ Below is the interactive dashboard created to visualize key insights from the da
 ## Recommendations
 
 1. **Focus Marketing on Key Demographics**:
-   - Target middle-aged adults (31–45 years), particularly those with higher incomes,       as they are the primary bike-buying demographic.
-   - Develop gender-specific marketing campaigns, as males slightly outpace females in       purchases.
+   - Target middle-aged adults (31–45 years), particularly those with higher incomes,as they are the primary bike-buying demographic.
+   - Develop gender-specific marketing campaigns, as males slightly outpace females in purchases.
 2. **Leverage Regional Insights**:
    - Prioritize North America for sales efforts, as it leads in bike purchases.
-   - Invest in campaigns to boost performance in underperforming regions like the           Pacific.
+   - Invest in campaigns to boost performance in underperforming regions like the Pacific.
 3. **Explore Commute and Eco-Friendly Opportunities**:
-   - Promote bikes as a cost-effective, eco-friendly commute option to customers            traveling 5–10 miles.
-   - Highlight the environmental benefits of biking to appeal to customers with fewer       cars or urban lifestyles.
+   - Promote bikes as a cost-effective, eco-friendly commute option to customers traveling 5–10 miles.
+   - Highlight the environmental benefits of biking to appeal to customers with fewer cars or urban lifestyles.
 4. **Enhance Family-Oriented Marketing**:
-   - Focus on families with 0–2 children, as they show the highest likelihood of            purchasing bikes.
+   - Focus on families with 0–2 children, as they show the highest likelihood of purchasing bikes.
    - Offer family bundles or discounts to encourage multiple purchases.
 
 
